@@ -1,2 +1,160 @@
-# fe-uiux-design-skills
-Frontend Skills - UI/UX 设计 (uiux-design)
+# UI/UX 设计 / uiux-design
+
+前端 Skill 合集 —— **UI/UX 设计**（uiux-design），共 148 个技能。
+
+本仓库由 `frontend-skills.zip` 按分类拆分上传，所有技能均为原样收录。
+
+## 技能清单
+
+- **a-b-test-design** — Design an A/B experiment — hypothesis, variants, primary metric, and sample size. Use when a change can be measured quantitatively at scale. For observing behav
+- **accessibility** — WCAG conformance, BFSG compliance, semantic HTML, ARIA, keyboard navigation, contrast, forms, and assistive technologies. Defines binding rules for accessible w
+- **accessibility-audit** — Audit an existing interface against WCAG, producing findings with severity ratings and remediation steps. Use when you have a design or build to assess now. Not
+- **accessibility-test-plan** — Plan accessibility testing — assistive technologies, participant criteria, WCAG coverage, and session protocol. Use when scheduling testing with real AT users. 
+- **aesthetic-usability** — Apply the Aesthetic-Usability Effect — polished, consistent interfaces are perceived as more usable and forgive minor friction. Use when justifying visual polis
+- **affinity-diagram** — Cluster many qualitative data points into themes and insight statements. Use when synthesising across multiple sessions or sources. For a single transcript use 
+- **agent-ui-design** — Design patterns for chat interfaces, agent UX, streaming UI, and tool visualization. Covers chat architecture, message types, streaming rendering, tool executio
+- **ai-design-workflow** — AI tool integration into the design process, structured prompting for designers, creative AI usage with clear boundaries, and review workflows.
+- **animation-principles** — Apply animation principles — easing, staging, follow-through — to one specific UI motion. Use when tuning how an animation feels. For product-wide duration and 
+- **branding-identity** — Brand strategy, visual identity, positioning, corporate design, portfolio presentation, and consistent brand management across all digital touchpoints.
+- **business-design** — Read financials, map competitive landscapes, and argue design decisions in the language of value. Use when defending design to commercial stakeholders. For the 
+- **card-sort-analysis** — Analyse open or closed card sort results into a proposed grouping and label set. Use after running a sort study. For turning that evidence into a full structure
+- **case-study** — Craft a portfolio case study with narrative arc, process evidence, and outcomes. Use when telling a project's story to an external audience. For an internal sta
+- **click-test-plan** — Design first-click and click tests for findability and navigation. Use when testing whether people can locate something. For full task-based observation, use `t
+- **color-system** — Build a product colour system — tonal scales, semantic roles, and contrast compliance. Use when defining or rebuilding colour from scratch. For dark-mode adapta
+- **color-theory** — Color models, palettes, contrast, color psychology, color harmonies, and dark mode for web projects. Defines the 60-30-10 rule, semantic color coding, design to
+- **competitive-analysis** — Compare UX patterns, features, strengths, and gaps across rival products. Use when you need to know what others actually do. For deliberately adopting their con
+- **component-patterns** — Modern UI component selection, composition, and theming patterns for web applications. Covers compound components, design tokens, variant systems, responsive pa
+- **component-spec** — Specify one component — props, states, variants, accessibility, and usage rules. Use when defining a library component. For the reusable doc scaffold use `docum
+- **content-strategy** — Define what content a product needs, how it is structured, and who owns it. Use when content itself is the problem. For the words in the interface use `ux-writi
+- **conversational-ux** — Design voice and conversational interfaces — dialog flows, error recovery, and persona. Use when the interface speaks and listens rather than being tapped. For 
+- **critique-affordance** — Critique a rendered screen's affordances — what looks clickable, state visibility, CTA clarity, and action discoverability. Use when reviewing an existing scree
+- **critique-brand-consistency** — Critique a rendered screen against mood.md, voice.md, and tokens.md. Use when those brand files exist and you are checking compliance. For defining the visual l
+- **critique-color** — Critique a rendered screen's colour — contrast ratios, palette coherence, and semantic meaning. Use when reviewing one screen. For a product-wide WCAG audit use
+- **critique-composition** — Critique a rendered screen's composition — balance, whitespace, rhythm, and gestalt grouping. Use when a layout feels off but hierarchy is fine. For emphasis an
+- **critique-information-density** — Critique a rendered screen's density — cognitive load, content prioritisation, scanning patterns, and progressive disclosure. Use when a screen feels overwhelmi
+- **critique-typography** — Critique a rendered screen's typography — scale usage, readability, consistency, and token compliance. Use when reviewing type on a screen. For defining the sca
+- **critique-visual-hierarchy** — Critique a rendered screen's hierarchy — entry point, eye flow, weight distribution, and emphasis. Use when attention lands in the wrong place. For establishing
+- **customer-journey** — Personas, touchpoint mapping, phase models, onboarding, customer retention, and data-driven journey analysis for user-centered web design.
+- **dark-mode-design** — Adapt an existing palette to dark mode — surface elevation, contrast rebalancing, and desaturation rules. Use when you already have a light palette to translate
+- **data-visualization** — Select chart types and design data encodings — marks, axes, labels, and accessible chart styling. Use when presenting data graphically. Owns chart selection and
+- **design-brief** — Write a project brief — problem space, constraints, audience, and success criteria. Use at kickoff for one specific project. For long-horizon aspiration use `no
+- **design-code-architecture** — 'Guided journey from an app idea to a deliberate architecture: boundaries, domain model, data decisions, and resilience, making only the expensive-to-reverse de
+- **design-critique** — Facilitate a structured team critique — framing, feedback rules, and actionable outcomes. Use when running a session with people in the room. For a solo expert 
+- **design-debt-audit** — Inventory and prioritise accumulated design inconsistencies across a product. Use when drift has built up over time. For token coverage specifically use `design
+- **design-everyday-things** — 'Apply foundational design principles: affordances, signifiers, constraints, feedback, and conceptual models. Use when the user mentions "why is this confusing"
+- **design-impact-reporting** — Communicate design's contribution to business and user outcomes in stakeholder language. Use when reporting results upward. For choosing the metrics in the firs
+- **design-negotiation** — Advocate for design quality, scope, and timeline with partners and leadership using evidence and shared goals. Use in the conversation itself. For the commercia
+- **design-principles** — Define actionable principles that resolve trade-offs when the team disagrees. Use when the same decisions keep getting relitigated. For a single project's frami
+- **design-process** — Briefing, concept development, wireframing, prototyping, visual design, review, and handoff -- the structured path from requirements to finished design.
+- **design-qa-checklist** — Build a QA checklist for verifying that a build matches the design. Use at implementation review. For the spec engineers build from, use `handoff-spec`.
+- **design-rationale** — Write rationale connecting decisions to user needs, business goals, and principles. Use when a decision needs defending in writing. For a live conversation, use
+- **design-review-process** — Establish review gates — criteria, checkpoints, and approval flow. Use when work ships without consistent review. For running one individual session, use `desig
+- **design-sprint** — 'Run a structured 5-day process to prototype, test, and validate product ideas with real users. Use when the user mentions "design sprint", "validate before we 
+- **design-sprint-plan** — Plan and facilitate a design sprint from challenge framing through prototype testing. Use when compressing discovery into days. For ongoing team cadence, use `t
+- **design-system-adoption** — Create adoption strategy and enablement materials to drive design system usage. Use when the system exists but teams ignore it. For contribution and versioning 
+- **design-system-governance** — Define how the system evolves — contribution model, versioning, deprecation, and change management. Use when multiple teams contribute. For driving uptake use `
+- **design-token** — Define and organise tokens for colour, spacing, type, and elevation with naming and usage rules. Use when establishing the token layer. For auditing existing us
+- **design-token-audit** — Audit token usage across a product for coverage, drift, and hard-coded values. Use when tokens exist and you suspect they are being bypassed. For defining token
+- **design-trends** — Current award-winning design patterns and emerging techniques in web design (Q1/Q2 2026). Covers motion, typography, color, layout innovations, and interaction 
+- **diary-study-plan** — Design a diary study — prompts, cadence, duration, participant criteria, and analysis frame. Use when behaviour unfolds over days or weeks. For a single-session
+- **documentation-template** — Generate a reusable documentation scaffold for components, patterns, or guidelines. Use when standardising how the system is documented. For the content of one 
+- **doherty-threshold** — Apply the Doherty Threshold — keep system response under 400ms to preserve user flow. Use when diagnosing perceived slowness or setting a performance budget. Fo
+- **empathy-map** — Build a Says, Thinks, Does, Feels map for one user or segment. Use when sharing user understanding quickly. For a composite archetype with goals and behaviours 
+- **error-handling-ux** — Design error prevention, detection, and recovery across a product — message content, placement, and escape routes. Use when errors span multiple flows. For vali
+- **experience-map** — Map the full ecosystem of touchpoints, channels, and relationships across a service. Use when the experience spans more than one product. For one persona's line
+- **expo-native-ui** — Framework (OSS). Build beautiful, native-feeling Expo screens. Covers Apple HIG styling, semantic colors, native controls, SF Symbols, media, animations, visual
+- **expo-tailwind-setup** — Framework (OSS). Set up Tailwind CSS v4 in Expo with react-native-css and NativeWind v5 for universal styling
+- **expo-ui** — "Framework (OSS). Build native UI with the @expo/ui package: real SwiftUI on iOS and Jetpack Compose on Android. Default to @expo/ui for sheets (BottomSheet), p
+- **feedback-patterns** — Design confirmations, status updates, and notifications that tell users an action registered. Use when the system must acknowledge success or change. For waitin
+- **fitts-law** — Apply Fitts's Law — target acquisition time depends on size and distance. Use when sizing and positioning controls, especially for touch. For how many controls 
+- **flutter-build-responsive-layout** — Use `LayoutBuilder`, `MediaQuery`, or `Expanded/Flexible` to create a layout that adapts to different screen sizes. Use when you need the UI to look good on bot
+- **flutter-fix-layout-issues** — Fixes Flutter layout errors (overflows, unbounded constraints) using Dart and Flutter MCP tools. Use when addressing "RenderFlex overflowed", "Vertical viewport
+- **form-design** — Design a form end to end — field order, grouping, validation, and completion. Use when the artifact is a form. For product-wide error strategy use `error-handli
+- **gesture-patterns** — Design gesture interactions for touch and pointer — swipe, drag, long-press, and their discoverability. Use when input is gestural. For OS-standard gestures on 
+- **handoff-spec** — Write the implementation handoff — measurements, behaviours, assets, states, and edge cases. Use when engineering picks up the work. For verifying the result af
+- **heuristic-evaluation** — Run an expert review against Nielsen's heuristics and domain criteria, with severity ratings. Use when you need findings without recruiting participants. For a 
+- **hicks-law** — Apply Hick's Law — decision time grows with the number of simultaneous choices. Use when a screen offers too many options at once. For how many items survive in
+- **high-perf-browser** — 'Optimize web performance through network protocols, resource loading, and browser rendering internals. Use when the user mentions "my site is slow", "Core Web 
+- **hooked-ux** — 'Design habit-forming product loops using the Hook Model (Trigger, Action, Variable Reward, Investment). Use when the user mentions "users arent coming back", "
+- **icon-system** — Specify an icon system — grid, sizing, stroke weight, naming, categories, and implementation. Use when standardising iconography. For broader illustration, use 
+- **illustration-style** — Define an illustration style guide — visual language, colour usage, and application rules. Use when commissioning or standardising illustration. For icons, use 
+- **images-media** — Image strategy, visual concepts, technical optimization, SVG, icons, lazy loading, and the strategic use of images and media in web design.
+- **information-architecture** — Design content structure, hierarchy, labelling, and the navigation model. Use when organising what exists. For the UI that exposes it use `navigation-patterns` 
+- **interfaces-that-feel** — Apply an emotional resonance lens to a UI that is technically correct but flat, prescribing changes at the copy, motion, and interaction layer. Use when a desig
+- **interview-script** — Write a structured interview guide — warm-up, core exploration, and wrap-up. Use before running interviews. For analysing what comes back, use `summarize-interv
+- **ios-hig-design** — 'Design native iOS interfaces following Apple Human Interface Guidelines. Use when the user mentions "iPhone app", "iPad layout", "SwiftUI", "UIKit", "Dynamic I
+- **jakobs-law** — Apply Jakob's Law — users expect your product to work like the others they already use. Use when deciding whether to innovate on a familiar pattern. For OS-mand
+- **jobs-to-be-done** — Map functional, emotional, and social jobs with outcome expectations. Use when reframing decisions around motivation rather than features. For who the user is, 
+- **journey-map** — Map one persona's end-to-end experience with stages, touchpoints, emotions, and pain points. Use when improving an existing experience. For the multi-channel ec
+- **landing-pages** — Conversion-oriented page structure, CTA design, above-the-fold optimization, page types, and A/B testing for maximum conversion rates.
+- **law-of-closure** — Apply the Law of Closure — the eye completes implied shapes from partial forms. Use when reducing visual weight by dropping borders or letting negative space su
+- **law-of-common-region** — Apply the Law of Common Region — a shared container, background, or border groups elements regardless of spacing. Use when grouping must survive a tight layout.
+- **law-of-continuity** — Apply the Law of Continuity — the eye follows alignment and unbroken paths. Use when sequencing steps, aligning content, or designing carousels and timelines. F
+- **law-of-figure-ground** — Apply the Law of Figure-Ground — establish which layer is foreground and actionable versus background. Use when designing modals, overlays, and depth. For empha
+- **law-of-proximity** — Apply the Law of Proximity — spatial closeness groups elements more strongly than any other cue. Use when spacing alone must carry grouping. For grouping via co
+- **law-of-similarity** — Apply the Law of Similarity — shared colour, shape, or size signals that elements belong to one category. Use when signalling relationships across distance. For
+- **layout-grid** — Define a responsive grid — columns, gutters, margins, and breakpoint behaviour. Use when establishing page structure. For the spacing scale inside components us
+- **lean-ux** — 'Apply lean thinking to UX: hypothesis-driven design, collaborative sketching, and rapid experiments instead of heavy deliverables. Use when the user mentions "
+- **loading-states** — Design waiting experiences — spinners, skeletons, optimistic updates, and progressive reveal. Use when content takes time to arrive. For the latency budget itse
+- **localization-design** — Design for multiple languages, writing directions, and cultural contexts — text expansion, RTL mirroring, and locale formats. Use when shipping beyond one local
+- **metrics-definition** — Define UX metrics and KPIs that connect design decisions to measurable outcomes. Use when choosing what to measure. For presenting the results afterwards, use `
+- **micro-interaction-spec** — Specify one micro-interaction completely — trigger, rules, feedback, loops, and modes. Use when handing a single interaction to engineering. For motion craft al
+- **microinteractions** — 'Design the small details -- triggers, rules, feedback, loops and modes -- that separate good products from great ones. Use when the user mentions "microinterac
+- **millers-law** — Apply Miller's Law — chunk information into groups of about four to fit working memory. Use when grouping fields, menu items, or steps. For reducing the number 
+- **motion-system** — Define motion tokens — durations, easing vocabulary, and reduced-motion handling — for consistency product-wide. Use when standardising motion across a system. 
+- **naming-convention** — Establish naming rules for components, tokens, and layers with patterns and worked examples. Use when names are inconsistent or being set. For what the tokens a
+- **navigation-design** — Menu patterns, breadcrumbs, search functionality, information architecture, and user flow. Navigation as the backbone of every website with accessible implement
+- **navigation-patterns** — Select and design a navigation pattern — tabs, drawer, hierarchy, or hub — matched to product structure and user tasks. Use when choosing how users move between
+- **north-star-vision** — Articulate a long-horizon product vision that aligns teams and anchors strategy. Use when direction is contested or absent. For near-term project scope, use `de
+- **onboarding-design** — Design the first-run experience — activation path, progressive disclosure, and time to first value. Use for a user's very first session. For the mechanics of th
+- **opportunity-framework** — Identify, score, and prioritise design opportunities against impact and effort. Use when there are more ideas than capacity. For framing the one you choose, use
+- **pattern-library** — Structure a pattern entry — problem context, solution, usage examples, and related patterns. Use when documenting a recurring solution rather than a component. 
+- **peak-end-rule** — Apply the Peak-End Rule — a flow is remembered by its most intense moment and its last. Use when designing completion, celebration, or cancellation moments. For
+- **platform-conventions** — Design to iOS and Android conventions — what each OS mandates, where they diverge, and when to unify. Use when shipping native apps. For breakpoint adaptation u
+- **presentation-deck** — Structure a design presentation for a specific audience and decision. Use when presenting internally. For a portfolio narrative use `case-study`; for the writte
+- **prototype-strategy** — Choose prototype fidelity and method to match the design question and the decision at stake. Use before building a prototype. For what to test once it exists, u
+- **react-native-best-practices** — Provides React Native performance optimization guidelines for FPS, TTI, bundle size, memory leaks, re-renders, and animations. Applies to tasks involving Hermes
+- **readable-measure** — Set line length and measure for comfortable reading across type sizes and breakpoints. Use when tuning body text. Covers measure only — for the full size and we
+- **refactoring-ui** — 'Audit and fix visual hierarchy, spacing, color, and depth in web UIs. Use when the user mentions "my UI looks off" (or amateur/unprofessional), "fix the design
+- **research-repository** — Build a repository that makes findings findable, reusable, and cumulative across teams. Use when the same research keeps getting redone. For synthesising one st
+- **responsive-design** — Mobile-first strategy, breakpoints, fluid layouts, content choreography, and cross-device optimization with CSS Grid, Flexbox, and modern responsive techniques.
+- **responsive-design** — Design layouts and interactions that adapt across screen sizes and input methods. Use when one design must serve many viewports. For the underlying column grid 
+- **search-ux** — Design search — query input, zero results, refinement, and result presentation. Use when users retrieve rather than browse. For browse structure, use `navigatio
+- **serial-position-effect** — Apply the Serial Position Effect — first and last items in a sequence are recalled best. Use when ordering menus, lists, and steps. For emphasising one item reg
+- **service-blueprint** — Map service delivery across frontstage actions, backstage processes, and supporting systems. Use when staff and operations are part of the experience. For the c
+- **SKILL-NAME-HERE** — DESCRIPTION-HERE
+- **spacing-system** — Create a spacing scale from a base unit with rules for when each step applies. Use when standardising padding and margins. For page-level columns and gutters, u
+- **stakeholder-alignment** — Build alignment artifacts — responsibility matrices, decision rights, and communication plans. Use when unclear ownership stalls decisions. For persuading in th
+- **state-machine** — Model component behaviour as explicit states, events, and transitions. Use when a component has many interacting states that must be exhaustive. For the feel an
+- **steve-jobs-design-review** — 'Review designs, products, and features with Steve Jobs'' standards: ruthless simplicity, focus, and end-to-end excellence. Use when the user mentions "Steve Jo
+- **summarize-interview** — Turn one interview transcript into themes, supporting quotes, and action items. Use immediately after a session. For synthesising many sessions at once, use `af
+- **survey-design** — Design unbiased survey instruments — question wording, scales, and sampling — to measure attitudes at scale. Use when you need quantitative breadth. For behavio
+- **team-workflow** — Design the team's operating rhythm — task management, collaboration rituals, and tooling. Use when the day-to-day cadence needs structure. For a time-boxed spri
+- **teslers-law** — Apply Tesler's Law — every process has irreducible complexity that someone must absorb. Use when deciding whether the product or the user carries it. For reduci
+- **test-scenario** — Write realistic usability task scenarios with success criteria and facilitation notes. Use when you have a study and need the tasks. For the surrounding study d
+- **theming-system** — Design theming architecture — brand variants, dark mode, and high-contrast — mapped through token layers. Use when one system must serve multiple themes. For a 
+- **top-design** — 'Create award-winning, immersive web experiences at the level of Awwwards-featured agencies. Use when the user mentions "Awwwards quality", "make my site stunni
+- **typography-scale** — Create a modular type scale with size, weight, and line-height relationships. Use when establishing typographic structure. For line length only use `readable-me
+- **ui-design** — Layouts, components, visual hierarchy, grid systems, and design systems for professional web interfaces. Defines rules for grid systems, whitespace, styleguides
+- **ui-patterns** — Proven, real-world UI interaction patterns from shipped products. Covers hero sections, navigation, cards, pricing, testimonials, CTAs, forms, and footer patter
+- **usability** — Heuristic evaluation, conversion optimization, form design, error handling, and usability as a measurable quality criterion per ISO 9241 and Nielsen heuristics.
+- **usability-test-plan** — Design a usability study — research questions, methodology, participant criteria, metrics, and facilitation guide. Use when planning the study as a whole. For w
+- **user-flow-diagram** — Diagram screen-level paths, decision points, and branch logic. Use when specifying how a feature is traversed. For the emotional end-to-end arc, use `journey-ma
+- **user-persona** — Build research-grounded personas with goals, frustrations, and behavioural patterns. Use when decisions need a consistent user reference. For one session's emot
+- **ux-design** — User research, interaction patterns, information architecture, and UX methods. Defines the five-plane model, user flows, UX laws, and validation methods for use
+- **ux-heuristics** — 'Evaluate and improve interface usability using heuristic analysis. Use when the user mentions "usability audit", "users are confused", "form usability", "navig
+- **ux-writing** — Write interface copy — microcopy, error messages, empty states, and CTAs. Use when the words are the deliverable. For content structure and ownership, use `cont
+- **version-control-strategy** — Define version control for design files, components, and libraries — branching, naming, and release. Use when file history is chaotic. For design system contrib
+- **visual-direction** — Current visual direction for web projects covering color palettes, font pairings, layout compositions, and imagery (Q1/Q2 2026). Derived from Dribbble trending,
+- **visual-hierarchy** — Establish hierarchy through size, weight, colour, spacing, and position so the eye lands in the intended order. Use when composing new work. For judging an exis
+- **von-restorff-effect** — Apply the Von Restorff Effect — the element that differs from its neighbours is the one remembered. Use when a single action must dominate. For overall ordering
+- **web-typography** — Font selection, font pairing, typographic scales, line height, line length, and CSS implementation for web typography. Defines rules for readable, performant, a
+- **web-typography** — 'Select, pair, and implement typefaces for web projects. Use when the user mentions "font pairing", "which typeface", "line height", "responsive typography", "w
+- **webdesign-review** — Meta-skill for comprehensive web design reviews. Orchestrates all 20 domain skills for systematic analysis of websites, designs, and prototypes against enterpri
+- **website-audit** — Systematic website analysis, relaunch planning, SEO migration, content audit, and post-launch monitoring for data-driven relaunches.
+- **wireframe-spec** — Specify wireframe layout — content priority, component placement, and annotation. Use when defining structure before visual design. For grid mechanics, use `lay
+- **zeigarnik-effect** — Apply the Zeigarnik Effect — incomplete tasks stay mentally active. Use when designing progress indicators, saved drafts, and return hooks. For the emotional sh
+
+---
+
+License: MIT
